@@ -46,6 +46,7 @@ nav {
     display: flex;
     justify-content:space-between;
     font-size: 20px;
+    gap: 5px;
 }
 .guardar {
     margin-left: auto;
@@ -53,6 +54,7 @@ nav {
 .likes {
     font-size: 14px;
     margin-top: 5px;
+    
 }
 .descripcion {
     font-size: 14px;
